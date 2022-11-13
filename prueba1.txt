@@ -2,7 +2,7 @@ hola de nuevo
 que tal
 modificacion dev
 probando
-<<<<<<< HEAD
+
 eyy
 =======
 probando2
