@@ -1,3 +1,7 @@
 hello dev
 hola23
+<<<<<<< HEAD
 conflicto 2!
+=======
+otra vez conflicto
+>>>>>>> 1f33ff5035aa2fbba3beb98ba4edc6cb8a0f485c
